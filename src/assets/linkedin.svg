@@ -1,0 +1,4 @@
+ <svg id="linkedin" xmlns="http://www.w3.org/2000/svg" width="52.57" height="67.57" viewBox="0 0 52.57 67.57">
+            <path id="icons8-linkedin-circled" d="M28.285,2A26.285,26.285,0,1,0,54.57,28.285,26.314,26.314,0,0,0,28.285,2Zm-8,37.713H15.714V22.571h4.571ZM18,19.142a2.286,2.286,0,1,1,2.286-2.286A2.285,2.285,0,0,1,18,19.142ZM42,39.713H37.428V31.142a4,4,0,1,0-8,0v8.571H24.857V22.571h4.571v2.075A7.423,7.423,0,0,1,42,30Z" transform="translate(-2 -2)" fill="#fff"/>
+            <text id="LINKEDIN" transform="translate(26.785 64.57)" fill="#fff" font-size="12" font-family="AbadiMT-CondensedExtraBold, Abadi MT Condensed Extra Bold" font-weight="800"><tspan x="-20.994" y="0">LINKEDIN</tspan></text>
+            </svg>

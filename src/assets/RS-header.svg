@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="377" height="235" viewBox="0 0 377 235">
+            <defs>
+              <filter id="HIS_WEB_DEVELOPMENT_JOURNEY" x="12" y="150" width="354" height="40" filterUnits="userSpaceOnUse">
+                <feOffset dy="3" input="SourceAlpha"/>
+                <feGaussianBlur stdDeviation="3" result="blur"/>
+                <feFlood flood-opacity="0.161"/>
+                <feComposite operator="in" in2="blur"/>
+                <feComposite in="SourceGraphic"/>
+              </filter>
+            </defs>
+            <g id="rs-head-v2" transform="translate(-192.5 385.5)">
+              <g id="b" transform="translate(193.5 -384.5)" opacity="0.41">
+                <path id="Path_164" data-name="Path 164" d="M100.5,186.314C150.208,219.052,214.116,233.5,294.839,233.5c75.1,0,130.058-16.408,179.187-45.245.15-5.332.15-178.766.15-187.755h0C464.5.539,112.672.5,100.5.5V8.126" transform="translate(-100.5 -0.5)" fill="#f5884a" stroke="#f2a358" stroke-width="2"/>
+              </g>
+            </g>
+            <text id="RODERICK_SMITH_" data-name="RODERICK
+               SMITH &amp;" transform="translate(21 78)" font-size="45" font-family="WTRGothicOpenShaded, WTR Gothic Open Shaded"><tspan x="0" y="0">RODERICK</tspan><tspan x="0" y="49" xml:space="preserve">     SMITH &amp;</tspan></text>
+            <g id="rodericksmith-header-1-v2" transform="translate(-47.35 -325.033)">
+              <g transform="matrix(1, 0, 0, 1, 47.35, 325.03)" filter="url(#HIS_WEB_DEVELOPMENT_JOURNEY)">
+                <text id="HIS_WEB_DEVELOPMENT_JOURNEY-2" data-name="HIS WEB DEVELOPMENT JOURNEY" transform="translate(21 171)" font-size="20" font-family="WTRGothicOpenShaded, WTR Gothic Open Shaded"><tspan x="0" y="0">HIS WEB </tspan><tspan y="0" letter-spacing="-0.02em">D</tspan><tspan y="0">EVE</tspan><tspan y="0" letter-spacing="-0.07em">L</tspan><tspan y="0">OPMENT J</tspan><tspan y="0" letter-spacing="-0.02em">O</tspan><tspan y="0">URN</tspan><tspan y="0" letter-spacing="-0.02em">E</tspan><tspan y="0">Y</tspan></text>
+              </g>
+            </g>
+          </svg>
